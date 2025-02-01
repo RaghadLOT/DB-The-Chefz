@@ -13,9 +13,3 @@ This project is a **relational database** designed for a **meal delivery applica
 
 - **MySQL** for database management.
 - **SQL scripts** for schema creation, data insertion, and queries.
-
-## 📌 Usage
-
-1. **Run SQL scripts** to create tables and insert sample data.
-2. **Execute queries** to retrieve and analyze data.
-3. **Modify the schema** as needed.
